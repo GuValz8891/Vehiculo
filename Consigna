@@ -1,5 +1,7 @@
 Consigna
-Existen dos tipos de vehÌculos: las motocicletas, que llevan un chofer y un acompaÒante,
- y los autobuses, que llevan un chofer y varios pasajeros. Los vehÌculos deben conocer la cantidad de kilÛmetros recorridos(se debe poder actualizar ese valor), asignar y cambiar chofer. Cada vehÌculo particular deber· poder agregar un acompaÒante o diversos pasajeros, respectivamente. En caso del Autob˙s, no puede cambiar de chofer si hubiera pasajeros. En el caso de la Motocicleta, no puede hacerlo si hubiera un acompaÒante.
-Ademas de todo lo mencionado anteriormente todos los vehÌculos llevan un registro de su nivel de combustible y su nivel m·ximo(cada vehÌculo debe tener distinto nivel y m·ximo de combustible), agregar al cÛdigo realizado, una clase o interfaz para recargar el combustible de un vehÌculo.
-Cada vehÌculo por kilÛmetro recorrido consume 2 litros de combustible.
+Existen dos tipos de veh√≠culos: las motocicletas, que llevan un chofer y un acompa√±ante, y los autobuses, que llevan un chofer y varios pasajeros. Los 
+veh√≠culos deben conocer la cantidad de kil√≥metros recorridos(se debe poder actualizar ese valor), asignar y cambiar chofer. Cada veh√≠culo particular deber√° 
+poder agregar un acompa√±ante o diversos pasajeros, respectivamente. En caso del Autob√∫s, no puede cambiar de chofer si hubiera pasajeros. 
+En el caso de la Motocicleta, no puede hacerlo si hubiera un acompa√±ante. Ademas de todo lo mencionado anteriormente todos los veh√≠culos llevan un registro 
+de su nivel de combustible y su nivel m√°ximo(cada veh√≠culo debe tener distinto nivel y m√°ximo de combustible), agregar al c√≥digo realizado, una clase o 
+interfaz para recargar el combustible de un veh√≠culo. Cada veh√≠culo por kil√≥metro recorrido consume 2 litros de combustible.
