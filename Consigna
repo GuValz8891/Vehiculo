@@ -1,0 +1,5 @@
+Consigna
+Existen dos tipos de vehículos: las motocicletas, que llevan un chofer y un acompañante,
+ y los autobuses, que llevan un chofer y varios pasajeros. Los vehículos deben conocer la cantidad de kilómetros recorridos(se debe poder actualizar ese valor), asignar y cambiar chofer. Cada vehículo particular deberá poder agregar un acompañante o diversos pasajeros, respectivamente. En caso del Autobús, no puede cambiar de chofer si hubiera pasajeros. En el caso de la Motocicleta, no puede hacerlo si hubiera un acompañante.
+Ademas de todo lo mencionado anteriormente todos los vehículos llevan un registro de su nivel de combustible y su nivel máximo(cada vehículo debe tener distinto nivel y máximo de combustible), agregar al código realizado, una clase o interfaz para recargar el combustible de un vehículo.
+Cada vehículo por kilómetro recorrido consume 2 litros de combustible.
